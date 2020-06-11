@@ -1,0 +1,9 @@
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\bin\Release\netstandard2.0\EventExecutor.deps.json
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\bin\Release\netstandard2.0\EventExecutor.dll
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\bin\Release\netstandard2.0\EventExecutor.pdb
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.csprojAssemblyReference.cache
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.csproj.CoreCompileInputs.cache
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.AssemblyInfoInputs.cache
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.AssemblyInfo.cs
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.dll
+D:\工作\mqtt\mqtt\mqtttest\EventExecutor\obj\Release\netstandard2.0\EventExecutor.pdb

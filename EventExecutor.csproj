@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>mucongxin</Authors>
+    <Product />
+    <Company />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ScheduledThreadPoolExecutor.cs" />
+  </ItemGroup>
+
+</Project>
